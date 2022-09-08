@@ -5,3 +5,8 @@
 ## Welcome! 👋
 
 Here's my take on furniture company landing page project
+
+Check out my solution live @ 
+
+![Live solution](https://mako542b.github.io/furniture-landing-page/)
+
